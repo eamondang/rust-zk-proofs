@@ -5,4 +5,8 @@
 
 + Một đồ thị gồm các đỉnh và cạnh nối các đỉnh đó lại với nhau. Hai đồ thị được coi là giống nhau nếu có thể biến đổi đồ thị này thành đồ thị kia bằng cách giữ nguyên số lượng đỉnh và cạnh, và chỉ thay đổi cách kết nối các đỉnh với nhau.
 
+** Image 1
 [[./images/graph-isomorphism.png]]
+
+** Image 2
+[[./images/graph-isomorphism2.webp]]
