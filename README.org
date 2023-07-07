@@ -1,0 +1,14 @@
+#+TITLE: Implement The Zero-knowledge Proofs
+
+* What is Graph isomorphism?
++ Graph Isomorphism là một khái niệm trong lý thuyết đồ thị, nó liên quan đến việc so sánh hai đồ thị và xác định liệu chúng có cấu trúc giống nhau hay không.
+
++ Một đồ thị gồm các đỉnh và cạnh nối các đỉnh đó lại với nhau. Hai đồ thị được coi là giống nhau nếu có thể biến đổi đồ thị này thành đồ thị kia bằng cách giữ nguyên số lượng đỉnh và cạnh, và chỉ thay đổi cách kết nối các đỉnh với nhau.
+
+#+begin_quote
+  A         B
+  / \       / \
+ B---C     C---A
+ |         |
+ D         D
+#+end_quote
